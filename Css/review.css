@@ -1,0 +1,211 @@
+p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.a{
+  font-weight: bold;
+  font-size: 20px;
+  font-family: tahoma;
+}
+.b {
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+.c{
+  font-size: 15px;
+  margin-top: 0px;
+  color: red;
+}
+.d{
+  background-color: rgb(9, 130, 9);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  height: 35px;
+  width: 95px;
+  margin-top: 20px;
+  transition: 0.15s;
+}
+.d:hover{
+  box-shadow: 5px 5px 5px rgb(10, 189, 3, 0.5);
+}
+.d:active{
+  width:100px ;
+  height: 40px;
+}
+.e{
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 0px ;
+}
+.f{
+  color: gray;
+  font-size: 18px;
+  margin-top: 0px;
+}
+.g{
+  font-size: 18px;
+  width: 270px;
+}
+.h{
+  font-weight: bold;
+  text-align: center;
+  font-size: 22px;
+  margin-top: 18px;
+  margin-bottom: 0px;
+}
+.i{
+  text-align: center;
+  font-size: 16px;
+  color: gray;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.j{
+  color: rgb(3, 102, 224);
+  text-align: center;
+  margin-top: 0px;
+  cursor: pointer;
+  
+}
+.k{
+  color: rgb(246, 114, 6);
+  margin-top: 28px;
+  text-align: center;
+  margin-bottom: 0px;
+  font-size: 13px;
+}
+.l{
+  margin-top: 0px;
+  font-size: 18px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+.m{
+  font-weight: bold;
+  font-size: 23px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.n{
+  margin-top: 0px;
+  text-align: center;
+  font-size: 17px;
+  color: gray;
+}
+.o{
+  margin-top: 25px;
+  font-size: 29px;
+  font-weight: bold;
+  
+}
+.p{
+  font-size: 26px;
+ }
+ .w{
+  color: rgb(96, 95, 95);
+  font-size: 21px;
+ }
+ .q{
+  color: rgb(71, 189, 2);
+  font-size: 15px;
+  margin-bottom: 0px;
+ }
+ .r{
+  font-size: 15px;
+  margin-top: 0px;
+ }
+ .x{
+  font-size: 15px;
+  color: rgb(223, 2, 2);
+  margin-top: 0px;
+ }
+ .s{
+  font-weight: bold;
+  font-size: 18px;
+  ;
+ }
+ .y{
+  font-size: 18px;
+  
+ }
+.t{
+  margin-top: 0px;
+}
+.z{
+  margin-bottom: 0px;
+}
+.v{
+  
+  cursor: pointer;
+  color: rgb(48, 127, 211);
+}
+.aa{
+  font-size: 26px;
+  margin-top: 30px;
+  font-weight: bold;
+}
+.ab{
+  color: green;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+.ac{
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.ad{
+  background-color: rgb(254, 222, 41);
+  color: black;
+  font-weight: bold;
+  border: none;
+  border-radius: 15px;
+  height: 36px;
+  width: 125px;
+  cursor: pointer;
+  transition: 0.15s;
+  margin-right: 15px;
+}
+.ad:hover{
+  background-color: rgb(232, 181, 13);
+}
+.ad:active{
+  height: 45px;
+  width: 135px;
+}
+.ae {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border-radius: 15px;
+  height: 36px;
+  width: 100px;
+  cursor: pointer;
+  transition: 0.15s;
+
+}
+.ae:hover {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
+.ae:active{
+  width: 110px;
+  height: 45px;
+}
+.af{
+  font-weight: bold;
+  color: blueviolet;
+  font-size: 18px;
+  margin-top: 15px;
+  margin-bottom: 0px;
+}
+.ag{
+  color: blueviolet;
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 0px;
+  margin-left: 12px;
+}

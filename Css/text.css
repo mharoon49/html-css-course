@@ -1,0 +1,59 @@
+
+  p {
+    font-family: arial;
+  }
+  .text {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 25px;
+  width: 450px;
+margin-bottom: 0px;
+  }
+
+.view {
+  font-family: arial;
+  font-size: 13px;
+  color: rgb(96, 83, 83);
+  font-weight: bold;
+  margin-top: 1px;
+}
+
+.brownlee {
+ font-family: arial;
+ color:  rgb(96, 83, 83);
+font-size: 14px;
+font-weight: bold;
+margin-top: 17px;
+
+}
+
+.paragrph {
+  font-family: arial;
+  color: rgb(96, 83, 83);
+  font-size: 14px;
+  width: 280px;
+  margin-top: 15px;
+  line-height: 20px;
+}
+
+.apple {
+    background-color: rgb(219, 19, 1);
+    color: white;
+    border: none;
+    font-size: 15px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    text-align: center;
+    margin-top: 55px;
+    transition: 0.15s;
+  }
+  .shop {
+    margin-left: 6px;
+    cursor: pointer;
+  }
+  .shop:hover {
+    text-decoration: underline;
+  }
+

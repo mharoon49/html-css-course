@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>practice 4</title>
+
+    <style>
+      .div-main{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        row-gap: 38px;
+        column-gap: 20px;
+        margin: 100px 30px 100px 30px;
+      }
+      .img-a,.img-b,.img-c,.img-d,.img-e,.img-f{
+        border-radius: 4px;
+        width: 100%;
+      }
+      .div-a-info,.div-b-info,.div-c-info,.div-d-info,.div-e-info,.div-f-info{
+        display: grid;
+        grid-template-columns: 50px 1fr;    
+        margin-top: 10px;
+      }
+      .img-a-dp,.img-b-dp,.img-c-dp,.img-d-dp,.img-e-dp,.img-f-dp{
+        width: 40px;
+        height: 40px;
+        border-radius: 45px;
+      }
+      .a-info,.b-info,.c-info,.d-info,.e-info,.f-info{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        margin-top: 0;
+        margin-bottom: 5px;
+      }
+      .a-stats,.b-stats,.c-stats,.d-stats,.e-stats,.f-stats{
+        color: rgb(96, 96, 96);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        margin-top: 0;
+        margin-bottom: 5px;
+      }
+      .a-name,.b-name,.c-name,.d-name,.e-name,.f-name{
+        color: rgb(96, 96, 96);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        margin-top: 0;
+      }
+      .search-bar{
+        margin-top: 50px;
+        border-radius: 15px;
+        width: 350px;
+        padding: 7px 0 7px 9.5px;
+        font-family: Arial, Helvetica, sans-serif;
+        margin-left: 30px;
+        border: solid;
+        border-color: rgb(110, 110, 110);
+        border-width: 1.5px;
+      }
+
+
+    </style>
+
+  </head>
+
+  <body>
+    <div>
+      <input class="search-bar" type="text" placeholder="Search">
+    </div>
+    <div class="div-main">
+
+        <div class="div-A">
+         <div><img class="img-a" src="../thumbnails/cover CPUs.avif"></div>
+         <div class="div-a-info">
+          <div class="div-a1-dp"><img class="img-a-dp" src="../thumbnails/dp CPU.jpg"></div>
+          <div class="div-a2-info">
+            <p class="a-info">Complete video on manufacturing and working of CPUs</p>
+            <p class="a-stats">1.2m views • 3 years ago</p>
+            <p class="a-name">Oxylabs</p>
+          </div>
+         </div>
+        </div>
+
+        <div class="div-B">
+          <div> <img class="img-b" src="../thumbnails/cover cs50 .avif"></div>
+          <div class="div-b-info">
+            <div class="div-b1-dp"> <img class="img-b-dp" src="../thumbnails/dp cs50.jpg"> </div>
+            <div class="div-b2-info">
+              <p class="b-info">Harvard CS50 (2026). Full Computer Science University course</p>
+              <p class="b-stats">970k views • 7 months ago</p>
+              <p class="b-name"> CS50</p>
+            </div>
+          </div>
+        </div>
+
+        
+        <div class="div-C">
+          <div> <img class="img-c" src="../thumbnails/cover doctors.avif"></div>
+          <div class="div-c-info">
+            <div class="div-c1-dp"> <img class="img-c-dp" src="../thumbnails/dp doctors.jpg"> </div>
+            <div class="div-c2-info">
+              <p class="c-info">Spending 6 hours with my colleague doctor in London</p>
+              <p class="c-stats">653k views • 10 months ago</p>
+              <p class="c-name">Zeliha Akpinar</p>
+            </div>
+          </div>
+        </div>
+
+        
+        <div class="div-D">
+          <div> <img class="img-d" src="../thumbnails/cover Nasa .avif"></div>
+          <div class="div-d-info">
+            <div class="div-d1-dp"> <img class="img-d-dp" src="../thumbnails/dp nasa.jpg"> </div>
+            <div class="div-d2-info">
+              <p class="d-info">How NASA writes space proof code</p>
+              <p class="d-stats">2.6m views • 2 years ago</p>
+              <p class="d-name">Low Level</p>
+            </div>
+          </div>
+        </div>
+
+        
+        <div class="div-E">
+          <div> <img class="img-e" src="../thumbnails/cover sleepy cat.avif"></div>
+          <div class="div-e-info">
+            <div class="div-e1-dp"> <img class="img-e-dp" src="../thumbnails/dp sleepy cat.jpg"> </div>
+            <div class="div-e2-info">
+              <p class="e-info">Make your coding easy in only two weeks</p>
+              <p class="e-stats">1.9m views • 5 months ago</p>
+              <p class="e-name">Sleepy Cat</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="div-F">
+          <div> <img class="img-f" src="../thumbnails/cover tedEd.avif"></div>
+          <div class="div-f-info">
+            <div class="div-f1-dp"> <img class="img-f-dp" src="../thumbnails/dp TedEd.jpg"> </div>
+            <div class="div-f2-info">
+              <p class="f-info">Which pose is best for sleeping. Side vs Stomach vs Back</p>
+              <p class="f-stats">5.8m views • 3 years ago</p>
+              <p class="f-name"></p>
+            </div>
+          </div>
+        </div>
+
+
+    </div>
+  </body>
+</html>

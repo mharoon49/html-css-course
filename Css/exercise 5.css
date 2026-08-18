@@ -1,0 +1,28 @@
+
+.heading{
+  text-align: center;
+ 
+}
+.para{
+  text-align: center;
+  margin-top: 10px;
+  transition: 0.15s;
+  font-size: 20px;
+}
+.order{
+  
+  margin-top: 10px;
+  text-align: center;
+}
+.delivery{
+  text-align: center;
+ transition: 0.15s;
+  cursor: pointer;
+}
+.delivery:hover{
+  text-decoration: underline;
+}
+.delivery:active{
+  background-color: black;
+  color: white;
+}

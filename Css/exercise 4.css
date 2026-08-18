@@ -1,0 +1,181 @@
+
+  .tahoma {
+    font-family: tahoma;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .deals {
+    font-family: Arial;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+  }
+  .sales {
+    color: red;
+   font-family: arial;
+    margin-top: 0px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  .html {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-bottom: 0px;
+
+  }
+  .pro {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin-top: 0px;
+  }
+  .course {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: medium;
+    width: 280px;
+  }
+
+  .start {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    height: 38px;
+    cursor: pointer;
+    transition: 0.15s;
+    padding-left: 14px;
+    padding-right: 14px;
+    margin-top: 10px;
+  }
+  .start:hover {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  h3{
+    font-family: Arial;
+  }
+  .business {
+   font-weight: bold;
+   font-size: 20px;
+   text-align: center;
+  }
+  .apple {
+    text-align: center;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+  }
+  .more {
+    color: rgb(16, 111, 228);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+  }
+
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .new {
+    color: rgb(231, 124, 9);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 0px;
+  }
+  .mac {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .pros {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .price{
+text-align: center;
+color: gray;
+font: 16px;
+margin-top: 0px;
+margin-bottom: 1px;
+  }
+  .buy {
+    background-color: rgb(0, 110, 255);
+    color: white;
+    border: none;
+    border-radius: 18px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 290px;
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-top: 6px;
+    cursor: pointer;
+    
+ }
+
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .stock{
+    color: black;
+    font-size: 25px;
+    margin-bottom: 0px;
+  }
+   .usd{
+    color: rgb(90, 90, 90);
+    margin-bottom: 0px;
+  }
+.profit {
+  color: rgb(49, 179, 9);
+  font-size: 13px;
+  margin-top: 0px;
+}
+.hours {
+  color: rgb(96, 96, 96);
+  margin-top: 0px;
+  font-size: 13px;
+}
+.loss{
+  color: red;
+  font-size: 13px;
+}
+
+
+  p{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .main{
+    margin-bottom: 0px;
+
+  }
+  .camp{
+   font-weight: bold;
+   font-size: 17px;
+  }
+  .web{
+    color: rgb(85, 85, 85);
+    font-size: 16px;
+  }
+  .paragraph1{
+    margin-top: 0px;
+    width: 510px;
+    margin-bottom: 0px;
+
+  }
+  .paragraph2{
+    margin-top: 18px;
+  }
+  .chp{
+color: rgb(48, 127, 211);
+font-family: Arial, Helvetica, sans-serif;
+  }
