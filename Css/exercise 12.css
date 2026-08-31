@@ -1,0 +1,56 @@
+      .div-main1{
+        display: flex;
+        flex-direction: column;
+        border: solid;
+        border-color: rgb(164, 163, 163);
+        border-radius: 6px;
+        border-width: 1.5px;
+        width: 378px;
+        box-shadow: 3px 3px 5px rgba(96, 96 ,96, 0.5);
+        margin-top: 45px;
+      }
+      .p-inb{
+        color: grey;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+        font-weight: 500;
+        margin-left: 12px;
+      }
+      .div-p1-main1,.div-p2-main1,.div-p3-main1{
+        display: flex;
+        flex-direction: row;
+        margin: 12px auto auto 12px;
+      }
+      .img-p1,.img-p2,.img-p3{
+        height: 45px;
+        border-radius: 80px;
+        width: 45px;
+      }
+      .h4-p1,.h4-p2,.h4-p3{
+        margin: 0 auto 0 9px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+      }
+      .h5-p1,.h5-p2,.h5-p3{
+         margin: 2px auto 0 9px;
+         font-family: Arial, Helvetica, sans-serif;
+         font-size: 13px;
+      }
+      .p1-p1,.p1-p2{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: rgb(110, 109, 109);
+        margin: 4px auto 10px 9px;
+      }
+      .p1-p3{
+       font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: rgb(110, 109, 109);
+        margin: 4px auto 20px 9px;
+      }
+      .p2-p1,.p2-p2,.p2-p3{
+        color: rgb(110, 109, 109);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12.5px;
+        margin-top: 0;
+      }
