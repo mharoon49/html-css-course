@@ -1,0 +1,62 @@
+.div-header {
+  display: flex;
+  flex-direction: row;
+  border-bottom-color: rgb(155, 154, 154);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  justify-content: space-between;
+  padding-bottom: 15px;
+}
+.div-middle-header{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 450px;
+}
+.div-left-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 160px;
+}
+.div-right-header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 220px;
+}
+.img-hamburger,.img-yt,.img-create,.img-noti,.img-profile{
+  height: 40px;
+}
+.img-microphone{
+  height: 31px;
+  border-radius: 20px;
+}
+.but-microphone{
+   border-top-right-radius: 14px;
+   border-bottom-right-radius: 14px;
+   margin-left: -2px;
+   border: solid;
+   border-color: rgb(152, 152, 152);
+   border-width: 1.5px;
+   background-color: white;
+   height: 44.4px;
+   width: 13%;
+   margin-top: 0;
+}
+.inp-header{
+  height: 39px;
+  width: 80%;
+  border-width: 1.5px;
+  border-style: solid;
+  border-color: rgb(152, 152, 152);
+  border-top-left-radius: 14px;
+  border-bottom-left-radius: 14px;
+}
+.inp-header::placeholder{
+  font-size: 15px;
+  color: rgb(83, 83, 83);
+  padding-left: 8px;
+}

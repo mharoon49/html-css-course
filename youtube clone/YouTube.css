@@ -1,6 +1,6 @@
       body{
         padding-top: 80px;
-        padding-left: 73px;
+        padding-left: 79px;
       }
       .div-main2{
         display: grid;
@@ -175,5 +175,35 @@
         left: 0;
         top: 60px;
         background-color: white;
-        width: 70px;
+        width: 75px;  
+        padding-top: 20px;
+      }
+      .div-mini-sidebar{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 75px;
+      }
+      .div-mini-sidebar img{
+        height: 30px;
+        cursor: pointer;
+      }
+      .sidebar-font{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        margin-bottom: 13px;
+        font-weight: 300;
+        cursor: pointer;
+      }
+      .sidebar-subs{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        font-weight: 300;
+        margin-bottom: 13px;
+        cursor: pointer;
+      }
+      .div-sidebar div img:hover{
+        zoom: 111%;
+        transition: 0.15s;
       }
